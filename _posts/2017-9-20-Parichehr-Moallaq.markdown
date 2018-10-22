@@ -14,8 +14,8 @@ Production, Composition, Guitars and Back Vocals by Arash Rezaei
 
 Engineering by Danny Klaven
 
-<audio src="/music/Moallaq.mp3" type="audio/mpeg">
-</audio>
+<iframe style="border: 0; width: 350px; height: 522px;" src="/assets/music/Moallaq.mp3" seamless>
+</iframe>
 Check out the band:
 
 [heterochrome.bandcamp.com]
