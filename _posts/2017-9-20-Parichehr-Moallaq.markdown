@@ -1,30 +1,26 @@
 ---
 layout: post
 title:  "Parichehr - Moallaq"
-img: heterochrome_melancholia.jpg
+img: Parichehr_Moallaq.jpg
 date:   2017-9-20 19:12:40 +0200
-Description: Debute album from Iranian metal band Heterochrome
-categories: production guitar heterochrome
-Tag: [Production, Guitar, Heterochrome]
+Description: Second single track from Parichehr
+categories: production jazz blues rock
+Tag: [Production, Jazz, Parichehr]
 ---
 
-Debute album from Iranian metal band Heterochrome
+Second single track from the Iranian Vocalist Parichehr
 
-Production, Composition, Guitars and Back Vocals by Arash Rezaei
+Production, Engineering, Composition, Guitars by Arash Rezaei
 
-Engineering by Danny Klaven
+Credits:
 
-<iframe style="border: 0; width: 350px; height: 522px;" src="/assets/music/Moallaq.mp3" seamless>
+Ali Tayeban - Harmonica
+
+Mohammad Mirboland - Drums
+
+Mohammad Darbanbaran - Lyrics
+
+Pooyan Alizadeh - Artwork
+
+<iframe style="border: 0; width: 500px; height: 40px;" src="/assets/music/Moallaq.mp3" seamless>
 </iframe>
-Check out the band:
-
-[heterochrome.bandcamp.com]
-
-[facebook.com/heterochromeband]
-
-[instagram.com/heterochromeband]
-
-[heterochrome.bandcamp.com]: https://heterochrome.bandcamp.com
-[facebook.com/heterochromeband]: https://www.facebook.com/heterochromeband
-[instagram.com/heterochromeband]: https://www.instagram.com/heterochromeband
-
