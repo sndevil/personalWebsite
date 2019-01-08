@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: Arash Rezaei # add logo name
 title: Arash Rezaei
 description: This is the Personal Website for Arash Rezaei
 permalink: ':title/'
@@ -14,13 +14,14 @@ banner-desc: Music Producer And Engineer
 author-pic: face.jpg # your photo
 author-name: Arash Rezaei # your name
 about-author: Arash Rezaei is an Iranian music producer and Guitar player from Tehran, Iran currently located at Valencia, Spain. Previous works include working with different Metal, Rock, Hiphop and Electronic music artists. # about author
-email: rezaiemohammadreza@gmail.com # your email
-phone: +34-677169686 # your pnone number
-website: https://arashrezaei.xyz # you website
+email: arashrezaeiproduction@gmail.com # your email
+website: https://arashrezaei.netlify.com # you website
 
 # Social link
 instagram_url: https://www.instagram.com/not_mhmdrza/
 facebook_url: https://www.facebook.com/Here.Lies.SN
+soundcloud_url: https://soundcloud.com/arash-rezaei-786121242
+youtube_url: https://www.youtube.com/channel/UChcIg_-nG52zr9_bmcdN3ag
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier
