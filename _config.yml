@@ -1,4 +1,4 @@
-logo: Arash Rezaei # add logo name
+logo: logo.jpg # add logo name
 title: Arash Rezaei
 description: This is the Personal Website for Arash Rezaei
 permalink: ':title/'
@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arashrezaei.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: header.jpg # add banner video. Add your video file to the folder video
+video: header.png # add banner video. Add your video file to the folder video
 banner-title: Arash Rezaei
 banner-desc: Music Producer And Engineer
 
