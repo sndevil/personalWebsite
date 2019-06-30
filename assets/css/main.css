@@ -59,6 +59,7 @@ main {
   display: block;
 }
 
+
 /**
  * Add the correct margin in IE 8.
  */
@@ -144,6 +145,10 @@ samp {
   /* 1 */
   font-size: 1em;
   /* 2 */
+}
+
+.row-centered {
+text-align:center;
 }
 
 /**
