@@ -37,6 +37,14 @@ body {
   margin-bottom: 5px;
 }
 
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.mb50 {
+  margin-bottom: 50px;
+}
+
 .mb10 {
   margin-bottom: 10px;
 }
@@ -55,6 +63,11 @@ body {
 
 .ml10 {
   margin-left: 10px;
+}
+
+.name-title {
+  font-family: Cochin;
+  color: #c2c2e0;
 }
 
 /**
