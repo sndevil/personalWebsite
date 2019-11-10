@@ -4285,6 +4285,37 @@ cite {
   color: #ffffff;
 }
 
+.telegram_link {
+  padding: 3rem 0;
+  list-style: none;
+  margin-top: 10px;
+  text-align: center;
+}
+.telegram_link a:hover {
+  background-color: #3C87C3;
+  color: #ffffff;
+}
+
+.telegram_link li {
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+
+.telegram_link a {
+  color: #7b7b7b;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0.3rem 0;
+  text-decoration: none;
+  font-size: 1.75rem;
+  -webkit-border-radius: 0.3rem;
+          border-radius: 0.3rem;
+  background-color: #262626;
+  -webkit-transition: all .35s ease-in-out;
+  transition: all .35s ease-in-out;
+}
+
+
 .copyright {
   padding: 1rem 0;
   text-align: center;
